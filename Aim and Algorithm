@@ -1,0 +1,22 @@
+Aim:
+To write a Python program to perform basic tuple operations and to convert a tuple into a list and back into a tuple.
+
+Algorithm:
+
+Start
+Create a tuple t containing the values 10, 20, 30, 40, 50.
+Display the complete tuple.
+Display the first element using index 0.
+Display the last element using index -1.
+Find and display the length of the tuple using len().
+Count how many times 20 occurs using count().
+Find the index position of 30 using index().
+Find and display the maximum value using max().
+Find and display the minimum value using min().
+Find and display the sum of all elements using sum().
+Check whether 40 is present in the tuple using the in operator.
+Convert the tuple into a list using list().
+Display the converted list.
+Convert the list back into a tuple using tuple().
+Display the converted tuple.
+Stop.
